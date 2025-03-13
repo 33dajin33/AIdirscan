@@ -2,8 +2,8 @@
 让AI帮着写的目录扫描工具~
 
 ## 安装步骤
-  ### go mod init aiscan
-  ### go build
+  ### >go mod init aiscan
+  ### >go build
 
 ## 参数:
   -f string
