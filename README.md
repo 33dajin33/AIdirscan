@@ -1,6 +1,10 @@
 # AIdirscan
 让AI帮着写的目录扫描工具~
 
+## 安装步骤
+  ### go mod init aiscan
+  ### go build
+
 ## 参数:
   -f string
     	包含多个URL的文件路径，每行一个URL</br></br>
